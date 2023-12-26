@@ -6,6 +6,7 @@ public class Loan {
 		System.out.println(" Hrelo");
 		System.out.println(" Hrelo");
 		System.out.println(" Hrelo");
+		System.out.println(" Hr  ++++++++++++++++++++elo");
 
 	}
 
